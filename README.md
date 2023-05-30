@@ -1,2 +1,2 @@
 # Comming soon...
-by Rawand (<a href='https://r4wand.eu.org' title='Wesbite'>@rawand_dev</a>)
+by Rawand (<a href='https://r4wand.eu.org' title='Wesbite'>wesbite</a>)
